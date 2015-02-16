@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * User: yesnault
+ * User: samir
  * Date: 25/01/12
  */
 public class HashTest {

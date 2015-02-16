@@ -8,7 +8,7 @@ import play.mvc.Security;
 /**
  * Index Settings page.
  *
- * User: yesnault
+ * User: samir
  * Date: 15/05/12
  */
 @Security.Authenticated(Secured.class)

@@ -26,7 +26,7 @@ import static play.data.Form.form;
  * - show the reset page and set them reset it.
  * <p/>
  * <p/>
- * User: yesnault
+ * User: samir
  * Date: 20/01/12
  */
 public class Reset extends Controller {

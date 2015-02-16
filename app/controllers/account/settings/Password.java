@@ -13,7 +13,7 @@ import views.html.account.settings.password;
 import java.net.MalformedURLException;
 
 /**
- * User: yesnault
+ * User: samir
  * Date: 15/05/12
  */
 @Security.Authenticated(Secured.class)

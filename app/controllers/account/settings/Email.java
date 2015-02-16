@@ -20,7 +20,7 @@ import static play.data.Form.form;
 /**
  * Settings -> Email page.
  * <p/>
- * User: yesnault
+ * User: samir
  * Date: 23/06/12
  */
 @Security.Authenticated(Secured.class)

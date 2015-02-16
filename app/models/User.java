@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * User: yesnault
+ * User: samir
  * Date: 20/01/12
  */
 @Entity

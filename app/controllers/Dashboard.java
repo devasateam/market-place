@@ -7,7 +7,7 @@ import play.mvc.Security;
 import views.html.dashboard.index;
 
 /**
- * User: yesnault
+ * User: samir
  * Date: 22/01/12
  */
 @Security.Authenticated(Secured.class)

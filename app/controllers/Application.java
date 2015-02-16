@@ -14,7 +14,7 @@ import static play.data.Form.form;
 
 /**
  * Login and Logout.
- * User: yesnault
+ * User: samir
  */
 public class Application extends Controller {
 
