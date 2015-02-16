@@ -8,7 +8,7 @@ import java.util.UUID;
  * Password utility class.  This handles password encryption and validation.
  * <p/>
  * User: samir
- * Date: 25/01/12
+ * *
  */
 public class Hash {
 

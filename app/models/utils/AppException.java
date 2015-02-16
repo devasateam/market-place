@@ -2,7 +2,7 @@ package models.utils;
 
 /**
  * User: samir
- * Date: 25/01/12
+ * *
  */
 public class AppException extends Exception {
 

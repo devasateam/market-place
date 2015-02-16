@@ -8,7 +8,7 @@ import views.html.dashboard.index;
 
 /**
  * User: samir
- * Date: 22/01/12
+ * *
  */
 @Security.Authenticated(Secured.class)
 public class Dashboard extends Controller {

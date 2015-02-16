@@ -9,7 +9,7 @@ import play.mvc.Security;
  * Index Settings page.
  *
  * User: samir
- * Date: 15/05/12
+ * *
  */
 @Security.Authenticated(Secured.class)
 public class Index extends Controller {

@@ -13,7 +13,6 @@ import java.util.Date;
 
 /**
  * User: samir
- * Date: 20/01/12
  */
 @Entity
 public class User extends Model {

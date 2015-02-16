@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * User: samir
- * Date: 25/01/12
+ * *
  */
 public class HashTest {
 

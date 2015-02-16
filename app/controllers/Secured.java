@@ -6,7 +6,7 @@ import play.mvc.Security;
 
 /**
  * User: samir
- * Date: 22/01/12
+ * *
  */
 public class Secured extends Security.Authenticator {
 

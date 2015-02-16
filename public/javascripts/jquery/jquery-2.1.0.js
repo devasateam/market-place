@@ -9,7 +9,7 @@
  * Released under the MIT license
  * http://jquery.org/license
  *
- * Date: 2014-01-23T21:10Z
+ * *
  */
 
 (function( global, factory ) {
@@ -558,7 +558,7 @@ var Sizzle =
  * Released under the MIT license
  * http://jquery.org/license
  *
- * Date: 2014-01-13
+ * *
  */
 (function( window ) {
 
